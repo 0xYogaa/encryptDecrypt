@@ -1,0 +1,15 @@
+{
+  "name": "web3-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yogaa",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^5.7.1",
+    "keccak256": "^1.0.6"
+  }
+}
